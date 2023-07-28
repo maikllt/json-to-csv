@@ -1,0 +1,17 @@
+HELP.md
+mvnw
+mvnw.cmd
+.mvn
+target/
+!**/src/main/**
+!**/src/test/**
+
+### VS Code ###
+.vscode/
+
+.DS_Store
+
+### project related ###
+*.json
+*.csv
+*.txt
